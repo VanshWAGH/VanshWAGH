@@ -93,8 +93,8 @@ class VanshWagh:
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.shion.dev/api?username=VanshWAGH&theme=dark&hide_border=true&include_all_commits=true&count_private=true&bg_color=0d1117&title_color=1d9e75&icon_color=5345d6&text_color=e8e4dc" />
-<img height="180em" src="https://github-readme-stats.shion.dev/api/top-langs/?username=VanshWAGH&theme=dark&hide_border=true&include_all_commits=true&count_private=true&layout=compact&bg_color=0d1117&title_color=1d9e75&text_color=e8e4dc" />
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=VanshWAGH&theme=dark&hide_border=true&include_all_commits=true&count_private=true&bg_color=0d1117&title_color=1d9e75&icon_color=5345d6&text_color=e8e4dc" />
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=VanshWAGH&theme=dark&hide_border=true&include_all_commits=true&count_private=true&layout=compact&bg_color=0d1117&title_color=1d9e75&text_color=e8e4dc" />
 
 </div>
 
@@ -130,9 +130,15 @@ class VanshWagh:
 
 <div align="center">
 
-[![Top Repos](https://github-contributor-stats.vercel.app/api?username=VanshWAGH&limit=5&theme=dark&combine_all_yearly_contributions=true&hide_border=true&bg_color=0d1117&title_color=1d9e75&text_color=e8e4dc)](https://github.com/VanshWAGH)
+[![VanshWAGH's github activity](https://github-readme-activity-graph.vercel.app/graph?username=VanshWAGH&theme=react-dark&hide_border=true&area=true)](https://github.com/VanshWAGH)
+
+| Repository | Stars | Forks | Language |
+|---|---|---|---|
+| [Check my pinned repos →](https://github.com/VanshWAGH?tab=repositories&sort=stargazers) | — | — | — |
 
 </div>
+
+> ⚠️ **Note:** The old `github-contributor-stats.vercel.app` widget is permanently down. The table above links directly to your starred repos on GitHub — consider pinning your top 6 repos on your profile for the best effect.
 
 ---
 
