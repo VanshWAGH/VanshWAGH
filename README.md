@@ -100,9 +100,15 @@ class VanshWagh:
 
 <div align="center">
 
-[![GitHub Streak](https://streak-stats.demolab.com/?user=VanshWAGH&theme=dark&hide_border=true&background=0d1117&ring=1d9e75&fire=5345d6&currStreakLabel=1d9e75)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com/?user=VanshWAGH&theme=dark&hide_border=true&background=0d1117&ring=1d9e75&fire=5345d6&currStreakLabel=1d9e75&mode=daily)](https://git.io/streak-stats)
 
 </div>
+
+> 💡 **If the streak card looks stuck:** it's almost always one of two things, not a bug in your commits.
+> 1. **Caching** — GitHub proxies this image through `camo.githubusercontent.com` and caches it for a few hours, so a same-day commit won't show instantly. Wait, or force-refresh with `Ctrl+Shift+R`.
+> 2. **Private contributions** — go to `github.com/settings/profile` and confirm **"Include private contributions on my profile"** is checked. If it's off, private commits don't count toward the streak at all.
+>
+> If it's still wrong after that, the shared `streak-stats.demolab.com` server itself has occasional outages (see [open issues](https://github.com/DenverCoder1/github-readme-streak-stats/issues)). The permanent fix is to self-host it as a static SVG via GitHub Actions so you're not relying on the public server — see the note at the bottom of this file for a ready-to-use workflow.
 
 ---
 
@@ -126,19 +132,15 @@ class VanshWagh:
 
 ---
 
-## 🔝 Top Contributed Repos
+## 🔝 Pinned / Top Repositories
 
 <div align="center">
 
-[![VanshWAGH's github activity](https://github-readme-activity-graph.vercel.app/graph?username=VanshWAGH&theme=react-dark&hide_border=true&area=true)](https://github.com/VanshWAGH)
+> Pin your best 6 repos from **github.com/VanshWAGH → Customize your pins** for the strongest first impression — recruiters and visitors scan this section first.
 
-| Repository | Stars | Forks | Language |
-|---|---|---|---|
-| [Check my pinned repos →](https://github.com/VanshWAGH?tab=repositories&sort=stargazers) | — | — | — |
+[![Check my repos](https://img.shields.io/badge/Browse_all_repos-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/VanshWAGH?tab=repositories&sort=stargazers)
 
 </div>
-
-> ⚠️ **Note:** The old `github-contributor-stats.vercel.app` widget is permanently down. The table above links directly to your starred repos on GitHub — consider pinning your top 6 repos on your profile for the best effect.
 
 ---
 
@@ -159,3 +161,12 @@ class VanshWagh:
 *— Thanks for visiting! Drop a ⭐ on something if it helped you.*
 
 </div>
+
+<!--
+NOTE ON A PERMANENT STREAK FIX (self-hosted via GitHub Actions):
+1. Create a repo named exactly your GitHub username (e.g. VanshWAGH/VanshWAGH) if you haven't already — this is the special "profile README" repo.
+2. Add a workflow at .github/workflows/streak.yml using the `schneegans/github-actions-readme-stats` or
+   DenverCoder1's official Action to generate a static SVG on a schedule (e.g. every 6 hours) and commit it
+   back into the repo, then reference that local SVG in this README instead of the live demolab.com URL.
+3. This removes both the caching lag and any dependence on the shared public server's uptime.
+-->
