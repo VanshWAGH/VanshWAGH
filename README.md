@@ -89,48 +89,6 @@ class VanshWagh:
 
 ---
 
-## 📊 GitHub Stats
-
-<div align="center">
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=VanshWAGH&theme=dark&hide_border=true&include_all_commits=true&count_private=true&bg_color=0d1117&title_color=1d9e75&icon_color=5345d6&text_color=e8e4dc" />
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=VanshWAGH&theme=dark&hide_border=true&include_all_commits=true&count_private=true&layout=compact&bg_color=0d1117&title_color=1d9e75&text_color=e8e4dc" />
-
-</div>
-
-<div align="center">
-
-[![GitHub Streak](https://streak-stats.demolab.com/?user=VanshWAGH&theme=dark&hide_border=true&background=0d1117&ring=1d9e75&fire=5345d6&currStreakLabel=1d9e75&mode=daily)](https://git.io/streak-stats)
-
-</div>
-
-> 💡 **If the streak card looks stuck:** it's almost always one of two things, not a bug in your commits.
-> 1. **Caching** — GitHub proxies this image through `camo.githubusercontent.com` and caches it for a few hours, so a same-day commit won't show instantly. Wait, or force-refresh with `Ctrl+Shift+R`.
-> 2. **Private contributions** — go to `github.com/settings/profile` and confirm **"Include private contributions on my profile"** is checked. If it's off, private commits don't count toward the streak at all.
->
-> If it's still wrong after that, the shared `streak-stats.demolab.com` server itself has occasional outages (see [open issues](https://github.com/DenverCoder1/github-readme-streak-stats/issues)). The permanent fix is to self-host it as a static SVG via GitHub Actions so you're not relying on the public server — see the note at the bottom of this file for a ready-to-use workflow.
-
----
-
-## 🏆 GitHub Trophies
-
-<div align="center">
-
-[![Trophy](https://github-profile-trophy.vercel.app/?username=VanshWAGH&theme=darkhub&no-frame=true&no-bg=true&margin-w=6&column=7)](https://github.com/ryo-ma/github-profile-trophy)
-
-</div>
-
----
-
-## 📈 Contribution Graph
-
-<div align="center">
-
-[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=VanshWAGH&bg_color=0d1117&color=1d9e75&line=5345d6&point=e8e4dc&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
-
-</div>
-
----
 
 ## 🔝 Pinned / Top Repositories
 
